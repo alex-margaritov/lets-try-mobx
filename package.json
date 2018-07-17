@@ -1,0 +1,39 @@
+{
+  "name": "lets-try-mobx",
+  "version": "1.0.0",
+  "description": "Some really basic react+mobx application",
+  "main": "src/index.tsx",
+  "dependencies": {
+    "awesome-typescript-loader": "^5.2.0",
+    "hard-source-webpack-plugin": "^0.11.1",
+    "mobx": "^5.0.3",
+    "mobx-react": "^5.2.3",
+    "mobx-react-devtools": "^6.0.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "webpack": "^4.16.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.6",
+    "@types/react-dom": "^16.0.6",
+    "tslint": "^5.11.0",
+    "tslint-react": "^3.6.0",
+    "typescript": "^2.9.2",
+    "webpack-cli": "^3.0.8",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "scripts": {
+    "test": "test",
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuman/lets-try-mobx.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuman/lets-try-mobx/issues"
+  },
+  "homepage": "https://github.com/xuman/lets-try-mobx#readme"
+}
