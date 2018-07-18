@@ -9,7 +9,8 @@
         "quotemark": [true, "single", "jsx-single"],
         "semicolon": [true, "never"],
         "member-access": false,
-        "arrow-parens": false
+        "arrow-parens": false,
+        "only-arrow-functions": false
     },
     "rulesDirectory": []
 }
